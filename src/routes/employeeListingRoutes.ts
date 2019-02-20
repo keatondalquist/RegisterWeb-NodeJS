@@ -1,6 +1,6 @@
 import express from "express";
 import { RouteLookup }  from "../controllers/lookups/stringLookup";
-import * EmployeeListingRouteController form "../controllers/employeeListingRouteController";
+import * EmployeeListingRouteController from "../controllers/employeeListingRouteController";
 
 function employeeListingRoutes(server: express.Express)
 {
