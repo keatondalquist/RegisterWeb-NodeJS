@@ -1,4 +1,4 @@
-.employeeDetailWrapper {
+/* .employeeDetailWrapper {
 	display: inline-block;
 }
 
@@ -9,9 +9,9 @@ input.update {
 	background-color: #FFFFFF;
 	font-size: 16px;
 	padding: 0em .25em 0em .25em;
-}
+} */
 
-/* Table style definitions */
+/* Table style definitions
 table {
 	border-spacing: 1;
 	border-collapse: collapse;
@@ -72,7 +72,7 @@ table.hidden, tr.hidden, th.hidden, td.hidden {
 /* End table style definitions */
 
 /* Product saved alert modal */
-.modal {
+/* .modal {
 	z-index: 1;
 	display: none;
 	padding-top: 75px;
@@ -117,4 +117,4 @@ table.hidden, tr.hidden, th.hidden, td.hidden {
 .gray-blue {
 	color: #607D8B !important;
 }
-/* End product saved alert modal */
+End product saved alert modal */ 
